@@ -17,8 +17,8 @@ storage:
     la   a0, storage
     addi s0, zero, 0
     addi s1, zero, 1
-    addi s2, zero, 2
-    addi s3, zero, 3
+    addi s2, zero, 3
+    addi s3, zero, 4
 
 # ----------------------------------------------------------------------------------------
 # Verify forwarding from the previous ALU instruction to input Op1 of ALU
